@@ -1,0 +1,9 @@
+{
+  "name": "vite-react-tailwind-v4-setup",
+  "version": "0.1.1",
+  "type": "module",
+  "bin": {
+    "vite-tailwind-setup": "index.js"
+  },
+  "dependencies": {}
+}
